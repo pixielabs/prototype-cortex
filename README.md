@@ -22,3 +22,14 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+How to set up the Vite bundler
+
+- npm init -y
+- npm install react react-dom
+- bundle install
+- bundle exec vite install
+- exec "SHELL"
+
+
+
