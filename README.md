@@ -20,7 +20,7 @@ application up and running.
 - npm install react react-dom --no-optional --foreground-scripts --verbose
 - bundle install
 - bundle exec vite install
-  (you should see a positive confirmation message in the terminal that Vite has been installed successfully after following the steps above)
+* (you should see a positive confirmation message in the terminal that Vite has been installed successfully after following the steps above)
 - exec "SHELL"
 
 # Running the application locally
