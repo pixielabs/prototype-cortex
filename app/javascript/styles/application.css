@@ -269,7 +269,7 @@ li {
 
 .react-response-search-bar_burger_icon {
   position: absolute;
-  left: 425px;
+  left: 460px;
   top: 50%;
   transform: translateY(-50%);
   border: none;
@@ -292,7 +292,7 @@ li {
 
 .react-response-search-bar_button {
   position: absolute;
-  right: 425px;
+  right: 460px;
   top: 50%;
   transform: translateY(-50%);
   border: none;

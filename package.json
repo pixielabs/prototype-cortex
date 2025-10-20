@@ -18,7 +18,16 @@
     "react-dom": "^19.2.0"
   },
   "devDependencies": {
-    "vite": "^5.4.20",
+    "vite": "^5.4.21",
     "vite-plugin-ruby": "^5.1.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuabanjopro/prototype-cortex.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/joshuabanjopro/prototype-cortex/issues"
+  },
+  "homepage": "https://github.com/joshuabanjopro/prototype-cortex#readme"
 }
